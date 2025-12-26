@@ -14,12 +14,6 @@ A lightweight Python application designed to compute taxes based on income and c
 ---
 
 ## Installation & Setup
-1. Clone this repository:
-```bash
-git clone https://github.com/your-username/tax_calculator.git
-Navigate into the project directory:
-cd tax_calculator
-Ensure Python 3.x is installed on your system. No external dependencies are required.
 ⚙️ Usage
 Run the script and follow prompts:
 
