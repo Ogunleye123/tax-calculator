@@ -1,6 +1,6 @@
 # tax-calculator
 Python program to help users estimate their income tax quickly
-#Tax Calculator
+
 
 A lightweight Python application designed to compute taxes based on income and customizable tax brackets. Ideal for personal finance management or educational purposes.
 
