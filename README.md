@@ -5,8 +5,7 @@ Python program to help users estimate their income tax quickly
 A lightweight Python application designed to compute taxes based on income and customizable tax brackets. Ideal for personal finance management or educational purposes.
 
 ---
-
-## 🚀 Features
+## Features
 - Calculate tax owed based on income.
 - Supports adjustable tax brackets.
 - Simple command-line interface.
@@ -14,7 +13,7 @@ A lightweight Python application designed to compute taxes based on income and c
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 1. Clone this repository:
 ```bash
 git clone https://github.com/your-username/tax_calculator.git
@@ -31,24 +30,14 @@ Example:
 
 Enter your income: 85000
 Your calculated tax: $17000
-📝 Customization
+Customization
 Modify the tax brackets within
 tax_calculator.py
 to reflect current tax laws.
 Extend functionality to include deductions, credits, or different filing statuses.
-🤝 Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-📄 License
-This project is licensed under the MIT License. See
-LICENSE
-for details.
 
 Contact
-For questions or support, open an issue or contact me directly at [your-email@example.com].
+For questions or support, open an issue or contact me directly at [timilehino74@gmail.com].
 
-Replace placeholders like
-your-username
-with your actual GitHub info.
+Ogunleye Oluwatimilehin
 
-undefined
